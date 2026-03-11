@@ -2,9 +2,7 @@
 
 ### Compliance Assistant | Project Management & Operations
 
-Sou **Assistente de Compliance** e busco agregar à minha atuação o planejamento de projetos, a estruturação de controles internos e a organização de fluxos operacionais. Utilizo recursos tecnológicos para o desenvolvimento de ferramentas e automação de processos, visando a conformidade e a eficiência das operações.
-
-Como parte do meu processo de aprendizado, desenvolvo um portfólio fundamentado nestes mesmos princípios, aplicando-os tanto em soluções de gestão de áreas diversas.
+Sou **Assistente de Compliance** e busco agregar à minha atuação o planejamento de projetos, a estruturação de controles internos e a organização de fluxos operacionais. Utilizo recursos tecnológicos para o desenvolvimento de ferramentas e automação de processos, visando a conformidade e a eficiência das operações. Como parte do meu processo de aprendizado, desenvolvo um portfólio fundamentado nestes mesmos princípios, aplicando-os tanto em soluções de gestão de áreas diversas.
 
 <div> 
  <a href="https://www.linkedin.com/in/rodrigo-m-fatuch/" target="_blank">
