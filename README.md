@@ -5,7 +5,7 @@
 Sou **Assistente de Compliance** e busco agregar à minha atuação o planejamento de projetos, a estruturação de controles internos e a organização de fluxos operacionais. Utilizo recursos tecnológicos para o desenvolvimento de ferramentas e automação de processos, visando a conformidade e a eficiência das operações.
 
 <div> 
- <a href="https://www.linkedin.com/in/rodrigo-m-fatuch" target="_blank">
+ <a href="https://www.linkedin.com/in/rodrigo-m-fatuch/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>  
 </div>
