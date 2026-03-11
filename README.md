@@ -32,4 +32,4 @@ Sou **Assistente de Compliance** e busco agregar à minha atuação o planejamen
 * **Planejamento e Gestão de Projetos:** Estruturação de escopo, cronogramas e condução de entregas operacionais.
 * **Compliance:** Implementação de mecanismos de monitoramento e mitigação de riscos.
 * **Otimização de Processos:** Redesenho de fluxos para ganho de agilidade e transparência.
-* **Solu
+* **Soluções Customizadas:** Desenvolvimento de ferramentas para gestão eficiente de dados.
