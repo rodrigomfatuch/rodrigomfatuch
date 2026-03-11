@@ -1,8 +1,8 @@
-# Olá! 👋
+# Olá, eu sou o Rodrigo Marcos Fatuch 👋
 
 ### Compliance Assistant | Project Management & Operations
 
-Sou **Assistente de Compliance**. Tenho experiência no setor jurídico e complemento minha atuação no planejamento de projetos, na estruturação de controles internos e na organização de fluxos operacionais. Utilizo recursos tecnológicos para o desenvolvimento de ferramentas e automação de processos, visando a conformidade e a eficiência das operações. 🇧🇷 🇮🇹
+Sou **Assistente de Compliance** e busco agregar à minha atuação o planejamento de projetos, a estruturação de controles internos e a organização de fluxos operacionais. Utilizo recursos tecnológicos para o desenvolvimento de ferramentas e automação de processos, visando a conformidade e a eficiência das operações.
 
 <div> 
  <a href="https://www.linkedin.com/in/rodrigo-m-fatuch" target="_blank">
@@ -29,9 +29,7 @@ Sou **Assistente de Compliance**. Tenho experiência no setor jurídico e comple
 
 ### 🎯 Foco Profissional
 
-* **Planejamento e Gestão de Projetos:** Estruturação de escopo e cronogramas operacionais.
+* **Planejamento e Gestão de Projetos:** Estruturação de escopo, cronogramas e condução de entregas operacionais.
 * **Compliance:** Implementação de mecanismos de monitoramento e mitigação de riscos.
 * **Otimização de Processos:** Redesenho de fluxos para ganho de agilidade e transparência.
-* **Soluções Customizadas:** Desenvolvimento de ferramentas para gestão eficiente de dados.
-
----
+* **Solu
